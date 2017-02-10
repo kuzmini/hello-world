@@ -1,2 +1,1 @@
-# hello-world
-My first repository
+Bonjour à tous je suis un développeur débutant
